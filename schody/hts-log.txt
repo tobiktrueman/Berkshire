@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Apr 2024 13:09:33 at https://www.sobczak.com.pl/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sobczak.com.pl/ -O1 "D:\website\schody" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:09:56	Warning: 	Warning: store application/octet-stream without scan: D:/website/schody/www.sobczak.com.pl/dist/resources/vendor/css/bootstrap/fonts/glyphicons-halflings-regular.8d75586254ef62e5f5e66997a87f81ec.svg
+13:09:56	Warning: 	Warning: store application/octet-stream without scan: D:/website/schody/www.sobczak.com.pl/dist/resources/vendor/css/font-awesome/fonts/fontawesome-webfont.ae459b0c49413afa6044276b2c171197.svg
+13:10:07	Warning: 	Link https://www.sobczak.com.pl/realizacje/schody-na-beton,1 not scanned (follow robots meta tag)
+13:10:07	Warning: 	Link https://www.sobczak.com.pl/realizacje/schody-na-beton,2 not scanned (follow robots meta tag)
+13:10:07	Error: 	"Not Found" (404) at link https://www.sobczak.com.pl/realizacje/schody-na-beton,2' (from https://www.sobczak.com.pl/realizacje/schody-na-beton)
+13:11:03	Warning: 	Link https://www.sobczak.com.pl/realizacje/schody-samonosne,1 not scanned (follow robots meta tag)
+13:11:03	Warning: 	Link https://www.sobczak.com.pl/realizacje/schody-samonosne,2 not scanned (follow robots meta tag)
+13:11:03	Warning: 	Link https://www.sobczak.com.pl/realizacje/schody-samonosne,3 not scanned (follow robots meta tag)
+13:11:03	Error: 	"Not Found" (404) at link https://www.sobczak.com.pl/realizacje/schody-samonosne,2' (from https://www.sobczak.com.pl/realizacje/schody-samonosne)
+13:12:04	Warning: 	Link https://www.sobczak.com.pl/realizacje/podlogi,1 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 53 seconds : 1251 links scanned, 1248 files written (100219049 bytes overall) [99248393 bytes received at 338731 bytes/sec], 2067397 bytes transferred using HTTP compression in 76 files, ratio 29%, 104.3 requests per connection
+(2 errors, 8 warnings, 0 messages)
